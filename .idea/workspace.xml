@@ -5,82 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a1ece78-50df-40a5-9e2c-f33f3e2b3850" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPractice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/newobserver/GetTheStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/newobserver/GetTheStock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/newobserver/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/newobserver/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/newobserver/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/newobserver/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/newobserver/StockGrabber.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/newobserver/StockGrabber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/newobserver/StockObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/newobserver/StockObserver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/newobserver/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/newobserver/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/observer/MyTopic.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/observer/MyTopic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/observer/MyTopicSubscriber.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/observer/MyTopicSubscriber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/observer/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/observer/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/observer/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/observer/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/observer/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/visitor/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/visitor/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/visitor/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/visitor/Fruit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/visitor/ItemElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/visitor/ItemElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/visitor/ShoppingCartClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/visitor/ShoppingCartClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/visitor/ShoppingCartVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/visitor/ShoppingCartVisitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/visitor/ShoppingCartVisitorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/visitor/ShoppingCartVisitorImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/abstractFactory/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/abstractFactory/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/abstractFactory/ComputerAbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/abstractFactory/ComputerAbstractFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/abstractFactory/ComputerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/abstractFactory/ComputerFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/abstractFactory/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/abstractFactory/PC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/abstractFactory/PCFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/abstractFactory/PCFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/abstractFactory/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/abstractFactory/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/abstractFactory/ServerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/abstractFactory/ServerFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/abstractFactory/TestFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/abstractFactory/TestFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/builder/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/builder/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/builder/TestComputerBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/builder/TestComputerBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/factory/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/factory/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/factory/ComputerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/factory/ComputerFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/factory/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/factory/PC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/factory/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/factory/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/factory/TestFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/factory/TestFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/singleton/BillPughSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/singleton/BillPughSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/singleton/EagerInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/singleton/EagerInitialization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/singleton/LazyInitializationSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/singleton/LazyInitializationSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/singleton/StaticBlockIntialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/singleton/StaticBlockIntialization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/singleton/ThreadSafeSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/singleton/ThreadSafeSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/singleton/singleton_double_checked_locking/ThreadSafeHandledByEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/singleton/singleton_double_checked_locking/ThreadSafeHandledByEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/singleton/singleton_double_checked_locking/ThreadSafeHandledByJVM.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/singleton/singleton_double_checked_locking/ThreadSafeHandledByJVM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/singleton/singleton_double_checked_locking/ThreadSafeManuallyMade.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/singleton/singleton_double_checked_locking/ThreadSafeManuallyMade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/adapter/Socket.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/adapter/Socket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/adapter/SocketAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/adapter/SocketAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/adapter/SocketObjectAdapterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/adapter/SocketObjectAdapterImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/adapter/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/adapter/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/adapter/Volt.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/adapter/Volt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/composite/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/composite/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/composite/Drawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/composite/Drawing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/composite/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/composite/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/composite/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/composite/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/composite/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/composite/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/decorator/BasicCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/decorator/BasicCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/decorator/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/decorator/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/decorator/CarDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/decorator/CarDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/decorator/LuxuryCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/decorator/LuxuryCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/decorator/SportsCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/decorator/SportsCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/decorator/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/decorator/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/facade/HelperFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/facade/HelperFacade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/facade/MySqlHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/facade/MySqlHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/facade/OracleHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/facade/OracleHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/facade/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/facade/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hashmap_with_java_8_features/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/hashmap_with_java_8_features/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hashmap_with_java_8_features/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/hashmap_with_java_8_features/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8features/consumerInterface/G.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/java8features/consumerInterface/G.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8features/foreach/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/java8features/foreach/C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8features/interfaces/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/java8features/interfaces/A.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8features/interfaces/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/java8features/interfaces/B.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8features/lambda/D.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/java8features/lambda/D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8features/lambda/E.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/java8features/lambda/E.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8features/lambda/F.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/java8features/lambda/F.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java8features/streams/H.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/java8features/streams/H.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/junit5/TesterAssertionTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/junit5/TesterAssertionTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/junit5/TesterAssumptionTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/junit5/TesterAssumptionTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/junit5/TesterExceptionTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/junit5/TesterExceptionTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/recursivity/RecursivityPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/recursivity/RecursivityPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPractice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/solvedProblems/solvedProblems.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -240,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1736" />
@@ -255,17 +181,7 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="design_pattersn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design_pattersn" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -455,7 +371,7 @@
       <workItem from="1615059980128" duration="2758000" />
       <workItem from="1615111196738" duration="1424000" />
       <workItem from="1615115965210" duration="6618000" />
-      <workItem from="1615635911300" duration="1282000" />
+      <workItem from="1615635911300" duration="1572000" />
     </task>
     <servers />
   </component>
@@ -492,7 +408,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102526000" />
+    <option name="totallyTimeSpent" value="102816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1736" height="1395" extended-state="0" />
@@ -502,7 +418,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.29116946" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.29116946" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" visible="true" weight="0.3296355" />
@@ -753,13 +669,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/composite/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/composite/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -1071,16 +980,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/recursion.java" />
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/solvedProblems/src/safeLock/SafeLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/singleton/singleton_double_checked_locking/ThreadSafeManuallyMade.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -1123,6 +1022,19 @@
           <folding>
             <element signature="e#168#169#0" expanded="true" />
             <element signature="e#196#197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaPractice.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solvedProblems/src/safeLock/SafeLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
