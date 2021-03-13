@@ -1,10 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/junit5/TesterAssumptionTests.java" line="8" mnemonic="2" />
+    <bookmark url="file://$PROJECT_DIR$/practiceExercices/src/junit5/TesterAssumptionTests.java" line="8" mnemonic="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a1ece78-50df-40a5-9e2c-f33f3e2b3850" name="Default Changelist" comment="" />
+    <list default="true" id="8a1ece78-50df-40a5-9e2c-f33f3e2b3850" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPractice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPractice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/newobserver/GetTheStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/newobserver/GetTheStock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/newobserver/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/newobserver/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/newobserver/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/newobserver/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/newobserver/StockGrabber.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/newobserver/StockGrabber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/newobserver/StockObserver.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/newobserver/StockObserver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/newobserver/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/newobserver/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/observer/MyTopic.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/observer/MyTopic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/observer/MyTopicSubscriber.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/observer/MyTopicSubscriber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/observer/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/observer/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/observer/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/observer/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/observer/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/visitor/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/visitor/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/visitor/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/visitor/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/visitor/ItemElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/visitor/ItemElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/visitor/ShoppingCartClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/visitor/ShoppingCartClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/visitor/ShoppingCartVisitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/visitor/ShoppingCartVisitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/behavioral/visitor/ShoppingCartVisitorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/visitor/ShoppingCartVisitorImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/abstractFactory/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/abstractFactory/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/abstractFactory/ComputerAbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/abstractFactory/ComputerAbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/abstractFactory/ComputerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/abstractFactory/ComputerFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/abstractFactory/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/abstractFactory/PC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/abstractFactory/PCFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/abstractFactory/PCFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/abstractFactory/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/abstractFactory/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/abstractFactory/ServerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/abstractFactory/ServerFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/abstractFactory/TestFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/abstractFactory/TestFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/builder/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/builder/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/builder/TestComputerBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/builder/TestComputerBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/factory/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/factory/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/factory/ComputerFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/factory/ComputerFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/factory/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/factory/PC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/factory/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/factory/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/factory/TestFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/factory/TestFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/singleton/BillPughSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/singleton/BillPughSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/singleton/EagerInitialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/singleton/EagerInitialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/singleton/LazyInitializationSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/singleton/LazyInitializationSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/singleton/StaticBlockIntialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/singleton/StaticBlockIntialization.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/singleton/ThreadSafeSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/singleton/ThreadSafeSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/singleton/singleton_double_checked_locking/ThreadSafeHandledByEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/singleton/singleton_double_checked_locking/ThreadSafeHandledByEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/singleton/singleton_double_checked_locking/ThreadSafeHandledByJVM.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/singleton/singleton_double_checked_locking/ThreadSafeHandledByJVM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/creational/singleton/singleton_double_checked_locking/ThreadSafeManuallyMade.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/singleton/singleton_double_checked_locking/ThreadSafeManuallyMade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/adapter/Socket.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/adapter/Socket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/adapter/SocketAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/adapter/SocketAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/adapter/SocketObjectAdapterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/adapter/SocketObjectAdapterImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/adapter/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/adapter/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/adapter/Volt.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/adapter/Volt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/composite/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/composite/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/composite/Drawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/composite/Drawing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/composite/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/composite/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/composite/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/composite/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/composite/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/composite/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/decorator/BasicCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/decorator/BasicCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/decorator/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/decorator/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/decorator/CarDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/decorator/CarDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/decorator/LuxuryCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/decorator/LuxuryCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/decorator/SportsCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/decorator/SportsCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/decorator/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/decorator/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/facade/HelperFacade.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/facade/HelperFacade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/facade/MySqlHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/facade/MySqlHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/facade/OracleHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/facade/OracleHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/designPatterns/structural/facade/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/facade/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hashmap_with_java_8_features/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/hashmap_with_java_8_features/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hashmap_with_java_8_features/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/hashmap_with_java_8_features/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8features/consumerInterface/G.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/java8features/consumerInterface/G.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8features/foreach/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/java8features/foreach/C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8features/interfaces/A.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/java8features/interfaces/A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8features/interfaces/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/java8features/interfaces/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8features/lambda/D.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/java8features/lambda/D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8features/lambda/E.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/java8features/lambda/E.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8features/lambda/F.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/java8features/lambda/F.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8features/streams/H.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/java8features/streams/H.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/junit5/TesterAssertionTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/junit5/TesterAssertionTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/junit5/TesterAssumptionTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/junit5/TesterAssumptionTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/junit5/TesterExceptionTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/junit5/TesterExceptionTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/recursivity/RecursivityPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/practiceExercices/src/recursivity/RecursivityPractice.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +94,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/solvedProblems/src/safeLock/SafeLock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -29,8 +106,8 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/designPatterns/creational/singleton/singleton_double_checked_locking/ThreadSafeManuallyMade.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/singleton/singleton_double_checked_locking/ThreadSafeManuallyMade.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
               <caret line="24" selection-start-line="24" selection-end-line="24" />
@@ -39,7 +116,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/recursivity/RecursivityPractice.java">
+        <entry file="file://$PROJECT_DIR$/practiceExercices/src/recursivity/RecursivityPractice.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="561">
               <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
@@ -48,7 +125,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/designPatterns/creational/singleton/singleton_double_checked_locking/ThreadSafeHandledByJVM.java">
+        <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/singleton/singleton_double_checked_locking/ThreadSafeHandledByJVM.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
@@ -57,7 +134,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/designPatterns/creational/singleton/singleton_double_checked_locking/ThreadSafeHandledByEnum.java">
+        <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/singleton/singleton_double_checked_locking/ThreadSafeHandledByEnum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
@@ -66,10 +143,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/designPatterns/creational/singleton/EagerInitialization.java">
+        <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/singleton/EagerInitialization.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -77,7 +154,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/solvedProblems/src/safeLock/LockingManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state relative-caret-position="187">
               <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="e#168#169#0" expanded="true" />
@@ -102,6 +179,9 @@
       <find>hashCode</find>
       <find>//////</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -160,18 +240,21 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1736" />
-    <option name="height" value="1416" />
+    <option name="height" value="1395" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,17 +262,10 @@
               <item name="design_pattersn" type="b2602c69:ProjectViewProjectNode" />
               <item name="design_pattersn" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="design_pattersn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="design_pattersn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -197,6 +273,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -206,13 +283,15 @@
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\PROIECTE_JAVA\design_pattersn\misc" />
-      <recent name="C:\PROIECTE_JAVA\design_pattersn" />
-      <recent name="C:\PROIECTE_JAVA\design_pattersn\problems\src\checkBrackets" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="safeLock" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PROIECTE_JAVA\design_pattersn\practiceExercices" />
+      <recent name="C:\PROIECTE_JAVA\design_pattersn" />
+      <recent name="C:\PROIECTE_JAVA\design_pattersn\solvedProblems\practiceExercices" />
+      <recent name="C:\PROIECTE_JAVA\design_pattersn\misc" />
+      <recent name="C:\PROIECTE_JAVA\design_pattersn\problems\src\checkBrackets" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -375,7 +454,8 @@
       <workItem from="1614859908540" duration="3669000" />
       <workItem from="1615059980128" duration="2758000" />
       <workItem from="1615111196738" duration="1424000" />
-      <workItem from="1615115965210" duration="3094000" />
+      <workItem from="1615115965210" duration="6618000" />
+      <workItem from="1615635911300" duration="1282000" />
     </task>
     <servers />
   </component>
@@ -412,27 +492,27 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="97720000" />
+    <option name="totallyTimeSpent" value="102526000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1736" height="1416" extended-state="0" />
+    <frame x="-8" y="-8" width="1736" height="1395" extended-state="0" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2875895" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.29116946" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="1" visible="true" weight="0.3296355" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.18858954" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.3281372" />
       <window_info anchor="bottom" id="Run" order="7" weight="0.32969603" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.3865939" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.3858954" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32810047" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -484,17 +564,43 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/designPatterns/creational/builder/Computer.java</url>
+          <url>file://$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/builder/Computer.java</url>
           <line>77</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/hashmap_with_java_8_features/Main.java</url>
+          <url>file://$PROJECT_DIR$/practiceExercices/src/hashmap_with_java_8_features/Main.java</url>
           <line>18</line>
           <properties />
           <option name="timeStamp" value="4" />
@@ -572,19 +678,19 @@
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/recursivity/RecursivityPractice.java</url>
+          <url>file://$PROJECT_DIR$/practiceExercices/src/recursivity/RecursivityPractice.java</url>
           <line>19</line>
           <properties />
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/recursivity/RecursivityPractice.java</url>
+          <url>file://$PROJECT_DIR$/practiceExercices/src/recursivity/RecursivityPractice.java</url>
           <line>17</line>
           <properties />
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/designPatterns/behavioral/newobserver/Observer.java</url>
+          <url>file://$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/newobserver/Observer.java</url>
           <line>4</line>
           <properties class="designPatterns.behavioral.newobserver.Observer" method="update">
             <option name="EMULATED" value="true" />
@@ -647,105 +753,105 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/structural/composite/Shape.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/composite/Shape.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/structural/composite/Test.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/composite/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/structural/facade/Test.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/facade/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/structural/facade/HelperFacade.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/facade/HelperFacade.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/structural/decorator/SportsCar.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/decorator/SportsCar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/structural/decorator/BasicCar.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/decorator/BasicCar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/structural/decorator/Car.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/decorator/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/structural/decorator/CarDecorator.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/decorator/CarDecorator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/structural/decorator/LuxuryCar.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/decorator/LuxuryCar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/structural/decorator/Test.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/structural/decorator/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/behavioral/visitor/Fruit.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/visitor/Fruit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/behavioral/visitor/ShoppingCartClient.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/visitor/ShoppingCartClient.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/behavioral/visitor/ItemElement.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/visitor/ItemElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/behavioral/visitor/ShoppingCartVisitor.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/visitor/ShoppingCartVisitor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/behavioral/visitor/Book.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/visitor/Book.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="23" column="26" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="26" />
@@ -756,35 +862,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/behavioral/visitor/ShoppingCartVisitorImpl.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/visitor/ShoppingCartVisitorImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/behavioral/observer/Test.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/observer/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/behavioral/newobserver/Observer.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/newobserver/Observer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/behavioral/newobserver/Main.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/newobserver/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
           <caret line="34" column="26" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/junit5/TesterExceptionTests.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/junit5/TesterExceptionTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="18" column="76" selection-start-line="18" selection-start-column="76" selection-end-line="18" selection-end-column="76" />
@@ -794,7 +900,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/junit5/TesterAssertionTests.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/junit5/TesterAssertionTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="20" column="70" selection-start-line="20" selection-start-column="70" selection-end-line="20" selection-end-column="70" />
@@ -818,35 +924,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/behavioral/newobserver/StockGrabber.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/newobserver/StockGrabber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="26" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/behavioral/newobserver/StockObserver.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/newobserver/StockObserver.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="61" column="19" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/behavioral/newobserver/GetTheStock.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/newobserver/GetTheStock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="44" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/behavioral/newobserver/Subject.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/behavioral/newobserver/Subject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="30" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/junit5/TesterAssumptionTests.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/junit5/TesterAssumptionTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
@@ -963,73 +1069,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/recursion.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/solvedProblems/src/safeLock/SafeLock.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/creational/singleton/singleton_double_checked_locking/ThreadSafeHandledByJVM.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/singleton/singleton_double_checked_locking/ThreadSafeManuallyMade.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/recursion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/creational/singleton/EagerInitialization.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/creational/singleton/singleton_double_checked_locking/ThreadSafeHandledByEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/solvedProblems/src/safeLock/LockingManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#168#169#0" expanded="true" />
-            <element signature="e#196#197#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/recursivity/RecursivityPractice.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/recursivity/RecursivityPractice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/designPatterns/creational/singleton/singleton_double_checked_locking/ThreadSafeManuallyMade.java">
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/singleton/singleton_double_checked_locking/ThreadSafeHandledByJVM.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="170">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/singleton/singleton_double_checked_locking/ThreadSafeHandledByEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practiceExercices/src/designPatterns/creational/singleton/EagerInitialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/solvedProblems/src/safeLock/LockingManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#196#197#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
